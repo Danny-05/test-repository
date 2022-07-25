@@ -1,13 +1,9 @@
 # My awesome REST API
 
-## Installation
 
-```
-pip install Flask
-python app.py
-```
+This is built with Flask, Flask-RESTful, Flask-JWT and Flask-SQLAlchemy.
 
-## Description
+Deployed on Heroku.
 
 
 
